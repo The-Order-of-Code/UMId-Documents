@@ -19,7 +19,7 @@ Para uma maior gestão e distruição de trabalho entre a equipa cosoante aos el
 -[Back End](https://github.com/The-Order-of-Code/UMId-BackEnd): Toda intraestrutura do backend como as APIs, base de dados e a Public Key Infrastructure.
 
 ## Sobre a equipa
-A equipa é composto por 9 elementos do Mestrado em Enegenharia Informática da Universidade do Minho, campus Gualtar. De forma a saber segue as informações destes bem como seus respectivos perfis no GitHub:
+A equipa é composto por 9 elementos do Mestrado em Engenharia Informática da Universidade do Minho, campus Gualtar. De forma a saber segue as informações destes bem como seus respectivos perfis no GitHub:
 
 * [A82145 - Filipa Parente](https://github.com/filipap)
 * [A81986 - Nuno Valente](https://github.com/nunoafonsogon)
